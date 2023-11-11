@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/12de4f6b-7f16-40ce-a152-26538981d286/resourceGroups/clasefeigrupo/providers/Microsoft.Web/sites/agniactividad14/subscriptions/12de4f6b-7f16-40ce-a152-26538981d286/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/correoFeiAgni"
+}
